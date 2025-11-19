@@ -7,7 +7,7 @@ body {
 
 
 .main {
-  background-image: url(verido.jpg);
+  background-image: url("/BONKERS/bonkers/public/verido.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
