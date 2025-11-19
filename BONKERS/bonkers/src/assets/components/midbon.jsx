@@ -1,5 +1,5 @@
 import React from 'react'
-import '../components/Midbon.css'
+import '../components/midbon.css'
 
 function Midbon() {
   return (
